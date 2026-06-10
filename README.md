@@ -63,6 +63,9 @@ The server exposes a single tool: `quantum_solve(context_layers_json: str, goal:
 
 The engine will return a JSON string containing the crystallized optimal solution.
 
+> **Note on Advanced Usage:**
+> For detailed usage instructions and advanced application ideas, **please ask your AI directly**. Since this engine leverages semantic intersections, consulting with an AI will significantly expand the scope and creativity of how you can utilize it!
+
 ---
 
 # Microforce Quantum Solver (MCP) [日本語版]
@@ -128,3 +131,7 @@ The engine will return a JSON string containing the crystallized optimal solutio
 - `goal`: 観測したい最適状態を指示する自然言語（プロンプト）
 
 エンジンは、制約を満たすように結晶化された最適解を JSON 文字列として返却します。
+
+> **💡 活用に関する重要なお知らせ**
+> 本エンジンの「詳しい利用方法」や「高度な活用法」については、**ぜひ直接AI（Claude等）に質問してみてください。**
+> このツール自体がAI（LLM）のセマンティックな理解力を前提としているため、AIと壁打ちしながら運用することで、単なるシフト作成に留まらない、想像を絶するほど活用の幅が広がります！
